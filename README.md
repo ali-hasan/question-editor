@@ -2,7 +2,9 @@
   Question Editor is a Radio Button Matrix created in React
 
 # Requirements
-  This question editor requires npm and NodeJs pre installed
+  This should be pre-installed
+  - Node Package Manager (npm)
+  - NodeJs
 
 # Installation
 - Step 1: Download or clone this repository
