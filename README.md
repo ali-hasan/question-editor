@@ -10,7 +10,7 @@
 - Step 1: Download or clone this repository
 - Step 2: Locate project directory and run this command in command line
 -         npm init 
-- this will install all the required libraries to run this project in 'node_modules' directory
+- this will download and install all the required libraries (which will take some time) to run this project in 'node_modules' directory
 - Step 3: Run the command below to start a webpack-dev-server to run the application and will also make sure the hot reloading as well
 -         npm start
 
